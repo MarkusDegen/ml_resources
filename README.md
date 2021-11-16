@@ -19,10 +19,15 @@ A selection of machine learning resources
 
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
+| [Youtube: Assessing the quality of a clustering (Christian Hennig @ PyData)](https://www.youtube.com/watch?v=Mf6MqIS2ql4)                                                | TBD |
+
+| Library                                                                                                                                              | Comment     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
 | [sklearn.metrics.homogeneity_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.homogeneity_score.html#sklearn.metrics.homogeneity_score)          | TBD |
 | [sklearn.metrics.completeness_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.completeness_score.html#sklearn.metrics.completeness_score)       | TBD |
 | [sklearn.metrics.v_measure_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.v_measure_score.html#sklearn.metrics.v_measure_score)                | TBD |
 | [sklearn.metrics.adjusted_rand_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html#sklearn.metrics.adjusted_rand_score)    | TBD |
+| [average silhouette width (ASW), TBD is this sklearn.metrics.silhouette_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html)  | TBD |
 
 #### K Means Clustering
 
@@ -70,6 +75,10 @@ DBSCAN has typically two parameters: **eps** and **minPoints**
 | [sklearn.cluster.DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)                                                   | TBD        |
 | [scikit-learn-contrib.hdbscan](https://github.com/scikit-learn-contrib/hdbscan)                                                                           | Hierarchical density based clustering |
 | [debacl](https://github.com/CoAxLab/DeBaCl)                                                                                                               | Uses Level Set Trees |
+
+#### Gaussian Mixture Model (TBD)
+Clusters are described by Gaussian distributions
+
 
 ### Classification
 | Resource                                                                                                                                              | Comment     |
