@@ -13,7 +13,8 @@ A selection of machine learning resources
 
 ## Topics
 ### Classification
-| Resource                                                                                                                             | Comment     |
-| -----------------------------------------------------------------------------------------------------------------------------------  | ----------- |
-| [Hands on machine learning: Classification notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)      | TBD         |
-| Paragraph   | Text        |
+| Resource                                                                                                                                              | Comment     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
+| [Hands on machine learning (Aurélien Geron): Classification notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)      | TBD         |
+| [Youtube: K Means Clustering (Siraj Raval)](https://www.youtube.com/watch?v=9991JlKnFmk)                                                              | TBD         |
+| [Youtube: K Means Clustering (StatQuest)](https://www.youtube.com/watch?v=4b5d3muPQmA)                                                                | TBD         |
