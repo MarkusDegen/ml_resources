@@ -46,7 +46,8 @@ A selection of machine learning resources
 
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
-| [Youtube: Density Based Clustering (Brian Kent @ Pydata)](https://www.youtube.com/watch?v=5cOhL4B5waU)                                                        | TBD |
+| [Youtube: Density Based Clustering (Brian Kent @ PyData)](https://www.youtube.com/watch?v=5cOhL4B5waU)                                                        | TBD |
+| [Youtube: HDBSCAN (John Healy @ PyData)](https://www.youtube.com/watch?v=dGsxd67IFiU)                                                                         | TBD |
 
 |Library                                                                                                                                                    | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------      | ----------- |
