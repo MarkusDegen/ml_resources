@@ -66,6 +66,7 @@ DBSCAN has typically two parameters: **eps** and **minPoints**
 | ----------------------------------------------------------------------------------------------------------------------------------------------------      | ----------- |
 | [sklearn.cluster.DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)                                                   | TBD        |
 | [scikit-learn-contrib.hdbscan](https://github.com/scikit-learn-contrib/hdbscan)                                                                           | Hiararchical density based clustering |
+| [debacl](https://github.com/CoAxLab/DeBaCl)                                                                                                               | Uses Level Set Trees |
 
 ### Classification
 | Resource                                                                                                                                              | Comment     |
