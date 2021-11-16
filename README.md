@@ -25,7 +25,8 @@ A selection of machine learning resources
 | [Youtube: K Means Clustering (StatQuest)](https://www.youtube.com/watch?v=4b5d3muPQmA)                                                                | TBD         |
 | [Youtube: K Means Clustering (Andrew Ng)](https://www.youtube.com/watch?v=hDmNF9JG3lo)                                                                | TBD         |
 | [Youtube: K Means Clustering (Luis Serrano)](https://www.youtube.com/watch?v=QXOkPvFM6NU)                                                             | Hierarchical Clustering too |
-| [Youtube: K Means Clustering (Batool Arhamna Haider)](https://www.youtube.com/watch?v=7Qv0cmJ6FsI)                                                    | Within Cluster and Between Cluster Distances
+| [Youtube: K Means Clustering (Batool Arhamna Haider)](https://www.youtube.com/watch?v=7Qv0cmJ6FsI)                                                    | Within Cluster and Between Cluster Distances     |
+| [TowardsDataScience: Understanding K-Means](https://towardsdatascience.com/understanding-k-means-k-means-and-k-medoids-clustering-algorithms-ad9c9fbf47ca) | Also has K-Medoids |
 
 |Library                                                                                                                                                    | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------      | ----------- |
@@ -35,7 +36,7 @@ A selection of machine learning resources
 ##### Questions
 
 - Can K Means handle categorical data?
-    - The k-Means algorithm is not applicable to categorical data, as categorical variables are discrete and do not have any natural origin. So computing euclidean distance for such as space is not meaningful.
+    - The k-Means algorithm is not applicable to categorical data, as categorical variables are discrete and do not have any natural origin. So computing euclidean distance for such as space is not meaningful. => [twoardsdatascience, also links to kmodes](https://towardsdatascience.com/clustering-algorithm-for-data-with-mixed-categorical-and-numerical-features-d4e3a48066a0)
     - **NOT CHECKED YET** Can [kmodes](https://github.com/nicodv/kmodes) be used for it?
 
 #### Hierarchical Clustering
