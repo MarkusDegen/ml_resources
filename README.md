@@ -12,8 +12,11 @@ A selection of machine learning resources
 ## Books online (or free downloads)
 
 ## Topics
+
 ### Clustering
+
 #### Metrics for clustering
+
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
 | [sklearn.metrics.homogeneity_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.homogeneity_score.html#sklearn.metrics.homogeneity_score)          | TBD |
@@ -65,10 +68,10 @@ DBSCAN has typically two parameters: **eps** and **minPoints**
 |Library                                                                                                                                                    | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------      | ----------- |
 | [sklearn.cluster.DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)                                                   | TBD        |
-| [scikit-learn-contrib.hdbscan](https://github.com/scikit-learn-contrib/hdbscan)                                                                           | Hiararchical density based clustering |
+| [scikit-learn-contrib.hdbscan](https://github.com/scikit-learn-contrib/hdbscan)                                                                           | Hierarchical density based clustering |
 | [debacl](https://github.com/CoAxLab/DeBaCl)                                                                                                               | Uses Level Set Trees |
 
 ### Classification
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
-| [Hands on machine learning (Aurélien Geron): Classification notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)      | MNIST, Precision, Recall, Confusion Matrix, ROC         |
+| [Hands on machine learning (Aurélien Geron): Classification notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)      | MNIST, Precision, Recall, Confusion Matrix, ROC    |
