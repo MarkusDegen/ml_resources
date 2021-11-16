@@ -28,7 +28,7 @@ A selection of machine learning resources
 
 | Library                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
-| [sklearn.cluster.KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)                                               | TBD         |
+| [sklearn.cluster.KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)                                               | Standard K Means Clustering         |
 | [sklearn.cluster.kmeans_plus_plus](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.kmeans_plusplus.html)                                                                | Different kind of initialization to speed up convergence         |
 
 #### Hierarchical Clustering
