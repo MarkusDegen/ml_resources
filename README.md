@@ -41,6 +41,7 @@ A selection of machine learning resources
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
 | [Youtube: Hierarchical Clustering (Luis Serrano)](https://www.youtube.com/watch?v=QXOkPvFM6NU)                                                        | K Means Clustering too |
+| [Youtube: Heriarchical Clustering (StatQuest)](https://www.youtube.com/watch?v=7xHsRkOdVwo)                                                           | TBD                    |
 
 #### Density Based Clustering (TBD)
 
