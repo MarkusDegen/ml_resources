@@ -46,7 +46,12 @@ A selection of machine learning resources
 
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
-| [Youtube: Density Based Clustering Brian Kent @ Pydata)](https://www.youtube.com/watch?v=5cOhL4B5waU)                                                        | TBD |
+| [Youtube: Density Based Clustering (Brian Kent @ Pydata)](https://www.youtube.com/watch?v=5cOhL4B5waU)                                                        | TBD |
+
+|Library                                                                                                                                                    | Comment     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------      | ----------- |
+| [sklearn.cluster.DBSCAN](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)                                                   | TBD        |
+| [scikit-learn-contrib.hdbscan](https://github.com/scikit-learn-contrib/hdbscan)                                                                           | Hiararchical density based clustering |
 
 ### Classification
 | Resource                                                                                                                                              | Comment     |
