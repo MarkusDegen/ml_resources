@@ -12,10 +12,7 @@ A selection of machine learning resources
 ## Books online (or free downloads)
 
 ## Topics
-### Classification
-| Resource                                                                                                                                              | Comment     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
-| [Hands on machine learning (Aurélien Geron): Classification notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)      | MNIST, Precision, Recall, Confusion Matrix, ROC         |
+### Clustering
 
 #### K Means Clustering
 
@@ -40,6 +37,18 @@ A selection of machine learning resources
     - **NOT CHECKED YET** Can [kmodes](https://github.com/nicodv/kmodes) be used for it?
 
 #### Hierarchical Clustering
+
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
 | [Youtube: Hierarchical Clustering (Luis Serrano)](https://www.youtube.com/watch?v=QXOkPvFM6NU)                                                        | K Means Clustering too |
+
+#### Density Based Clustering (TBD)
+
+| Resource                                                                                                                                              | Comment     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
+| [Youtube: Density Based Clustering Brian Kent @ Pydata)](https://www.youtube.com/watch?v=5cOhL4B5waU)                                                        | TBD |
+
+### Classification
+| Resource                                                                                                                                              | Comment     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
+| [Hands on machine learning (Aurélien Geron): Classification notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)      | MNIST, Precision, Recall, Confusion Matrix, ROC         |
