@@ -25,11 +25,11 @@ A selection of machine learning resources
 | [Youtube: K Means Clustering (StatQuest)](https://www.youtube.com/watch?v=4b5d3muPQmA)                                                                | TBD         |
 | [Youtube: K Means Clustering (Andrew Ng)](https://www.youtube.com/watch?v=hDmNF9JG3lo)                                                                | TBD         |
 | [Youtube: K Means Clustering (Luis Serrano)](https://www.youtube.com/watch?v=QXOkPvFM6NU)                                                             | Hierarchical Clustering too |
+| [Youtube: K Means Clustering (Batool Arhamna Haider)](https://www.youtube.com/watch?v=7Qv0cmJ6FsI) | Within Cluster and Between Clsuter Distances
 
-| Library                                                                                                                                              | Comment     |
+|Library                                                                                               | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
-| [sklearn.cluster.KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)                                               | Standard K Means Clustering         |
-| [sklearn.cluster.kmeans_plus_plus](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.kmeans_plusplus.html)                                                                | Different kind of initialization to speed up convergence         |
+| [sklearn.cluster.KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)                                               | Standard K Means Clustering (Can initialize random or k-means++)        |
 
 #### Hierarchical Clustering
 | Resource                                                                                                                                              | Comment     |
