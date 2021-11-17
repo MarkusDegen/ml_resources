@@ -15,6 +15,10 @@ A selection of machine learning resources
 
 ### Clustering
 
+| Resource                                                                                                                                              | Comment     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
+| [Youtube: 4 Basic Types of Cluster Analysis used in Data Analytics (Decisive Data)](https://www.youtube.com/watch?v=Se28XHI2_xE)                                                | TBD |
+
 #### Metrics for clustering
 
 | Resource                                                                                                                                              | Comment     |
