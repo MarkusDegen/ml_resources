@@ -15,6 +15,9 @@ A selection of machine learning resources
 
 ### Clustering
 
+Uses
+- Additionally [Vincent Warmerdam](https://youtu.be/aICqoAG5BXQ?t=1096) sees the possibility to use an auto encoder and cluster the latent space. This gets outlyer detection and sampling in the latent space for free
+
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
 | [Youtube: 4 Basic Types of Cluster Analysis used in Data Analytics (Decisive Data)](https://www.youtube.com/watch?v=Se28XHI2_xE)                                                | TBD |
