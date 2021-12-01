@@ -59,8 +59,10 @@ Uses
 ##### Questions
 
 - Can K Means handle categorical data?
-    - The k-Means algorithm is not applicable to categorical data, as categorical variables are discrete and do not have any natural origin. So computing euclidean distance for such as space is not meaningful. => [twoardsdatascience, also links to kmodes](https://towardsdatascience.com/clustering-algorithm-for-data-with-mixed-categorical-and-numerical-features-d4e3a48066a0)
+    - The k-Means algorithm is not applicable to categorical data, as categorical variables are discrete and do not have any natural origin. So computing euclidean distance for such as space is not meaningful.
+        - [twoardsdatascience, also links to kmodes](https://towardsdatascience.com/clustering-algorithm-for-data-with-mixed-categorical-and-numerical-features-d4e3a48066a0)
     - **NOT CHECKED YET** Can [kmodes](https://github.com/nicodv/kmodes) be used for it?
+        - [Blog: kmodes](https://www.analyticsvidhya.com/blog/2021/06/kmodes-clustering-algorithm-for-categorical-data/)
     - Why can't we just scale to [0;1] or [-1;1] range?
 
 #### Hierarchical Clustering
