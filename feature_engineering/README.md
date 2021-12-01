@@ -11,6 +11,7 @@ A selection of feature engineering resources
 | [sklearn.preprocessing.LabelEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)                                                | TBD |
 | [tf.keras.utils.to_categorical](https://www.tensorflow.org/api_docs/python/tf/keras/utils/to_categorical)                                                | TBD |
 | [pandas.get_dummies](https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html)            | TBD |
+| [category encoders](https://pypi.org/project/category-encoders/) | TBD |
 | [Youtube: How do I encode categorical features using scikit-learn? (Data School)](https://www.youtube.com/watch?v=irHhDMbw3xo)             | TBD|
 | [Blog: Here’s All you Need to Know About Encoding Categorical Data (with Python code)](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/) | TBD |
 
