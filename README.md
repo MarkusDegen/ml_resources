@@ -38,13 +38,13 @@ Uses
 
 #### K Means Clustering
 
-| Resource                                                                                                                                              | Comment     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
-| [Youtube: K Means Clustering (Siraj Raval)](https://www.youtube.com/watch?v=9991JlKnFmk)                                                              | TBD         |
-| [Youtube: K Means Clustering (StatQuest)](https://www.youtube.com/watch?v=4b5d3muPQmA)                                                                | TBD         |
-| [Youtube: K Means Clustering (Andrew Ng)](https://www.youtube.com/watch?v=hDmNF9JG3lo)                                                                | TBD         |
-| [Youtube: K Means Clustering (Luis Serrano)](https://www.youtube.com/watch?v=QXOkPvFM6NU)                                                             | Hierarchical Clustering too |
-| [Youtube: K Means Clustering (Batool Arhamna Haider)](https://www.youtube.com/watch?v=7Qv0cmJ6FsI)                                                    | Within Cluster and Between Cluster Distances     |
+| Resource                                                                                                                                                   | Comment     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------       | ----------- |
+| [Youtube: K Means Clustering (Siraj Raval)](https://www.youtube.com/watch?v=9991JlKnFmk)                                                                   | TBD         |
+| [Youtube: K Means Clustering (StatQuest)](https://www.youtube.com/watch?v=4b5d3muPQmA)                                                                     | TBD         |
+| [Youtube: K Means Clustering (Andrew Ng)](https://www.youtube.com/watch?v=hDmNF9JG3lo)                                                                     | TBD         |
+| [Youtube: K Means Clustering (Luis Serrano)](https://www.youtube.com/watch?v=QXOkPvFM6NU)                                                                  | Hierarchical Clustering too |
+| [Youtube: K Means Clustering (Batool Arhamna Haider)](https://www.youtube.com/watch?v=7Qv0cmJ6FsI)                                                         | Within Cluster and Between Cluster Distances     |
 | [TowardsDataScience: Understanding K-Means](https://towardsdatascience.com/understanding-k-means-k-means-and-k-medoids-clustering-algorithms-ad9c9fbf47ca) | Also has K-Medoids |
 
 |Library                                                                                                                                                    | Comment     |
@@ -74,8 +74,8 @@ DBSCAN has typically two parameters: **eps** and **minPoints**
 
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
-| [Youtube: Density Based Clustering (Brian Kent @ PyData)](https://www.youtube.com/watch?v=5cOhL4B5waU)                                                        | TBD |
-| [Youtube: HDBSCAN (John Healy @ PyData)](https://www.youtube.com/watch?v=dGsxd67IFiU)                                                                         | TBD |
+| [Youtube: Density Based Clustering (Brian Kent @ PyData)](https://www.youtube.com/watch?v=5cOhL4B5waU)                                                | TBD |
+| [Youtube: HDBSCAN (John Healy @ PyData)](https://www.youtube.com/watch?v=dGsxd67IFiU)                                                                 | TBD |
 
 |Library                                                                                                                                                    | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------      | ----------- |
@@ -91,3 +91,9 @@ Clusters are described by Gaussian distributions
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
 | [Hands on machine learning (Aurélien Geron): Classification notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)      | MNIST, Precision, Recall, Confusion Matrix, ROC    |
+
+### Pipelines
+
+| Resource                                                                                                                                              | Comment     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
+| [Youtube: Deploying Machine Learning using sklearn pipelines (Kevin Goetsch @ PyData)](https://www.youtube.com/watch?v=URdnFlZnlaE)                                                | TBD |
