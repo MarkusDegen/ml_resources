@@ -15,7 +15,7 @@ A selection of machine learning resources
 
 ### Feature Engineering
 
-[Feature Enginnering](/feature_engneering/README.md)
+[Feature Enginnering](/feature_engneering/)
 
 ### Clustering
 
