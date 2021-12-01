@@ -97,3 +97,4 @@ Clusters are described by Gaussian distributions
 | Resource                                                                                                                                              | Comment     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
 | [Youtube: Deploying Machine Learning using sklearn pipelines (Kevin Goetsch @ PyData)](https://www.youtube.com/watch?v=URdnFlZnlaE)                                                | TBD |
+| [Youtube: Pandas, Pipelines, and Custom Transformers (Julie Michelman @ PyData)](https://www.youtube.com/watch?v=BFaadIqWlAg)                                                | TBD |
