@@ -110,7 +110,8 @@ Clusters are described by Gaussian distributions
 | [Youtube: How you SHOULD code Machine Learning (CodeEmporium)](https://www.youtube.com/watch?v=XvnkUg1yVmk)                                                | TBD |
 | [Youtube: Creating Pipelines Using SKlearn- Machine Learning Tutorial (Krish Naik)](https://www.youtube.com/watch?v=w9IGkBfOoic)                                                | TBD |
 | [Github: Pandas in sklearn](https://github.com/scikit-learn-contrib/sklearn-pandas) | TBD |
-| [sklearn transformers (by oegedijk)](https://github.com/oegedijk/sklearn-transformers) | TBD |
+| [Github: sklearn transformers (by oegedijk)](https://github.com/oegedijk/sklearn-transformers) | TBD |
 | [Gist:Transformer Howto](https://gist.github.com/amberjrivera/8c5c145516f5a2e894681e16a8095b5c) | TBD |
+| [Blog: A simple guide to pipelines (Rebecca Vickery)](https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf) | TBD |
 
 
