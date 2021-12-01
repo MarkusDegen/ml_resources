@@ -109,9 +109,11 @@ Clusters are described by Gaussian distributions
 | [Youtube: Pandas, Pipelines, and Custom Transformers (Julie Michelman @ PyData)](https://www.youtube.com/watch?v=BFaadIqWlAg)                                                | TBD |
 | [Youtube: How you SHOULD code Machine Learning (CodeEmporium)](https://www.youtube.com/watch?v=XvnkUg1yVmk)                                                | TBD |
 | [Youtube: Creating Pipelines Using SKlearn- Machine Learning Tutorial (Krish Naik)](https://www.youtube.com/watch?v=w9IGkBfOoic)                                                | TBD |
+| [Youtube: Use cross_val_score and GridSearchCV on a Pipeline (Data School)](https://www.youtube.com/watch?v=f_xB7kbZR_g) | TBD |
 | [Github: Pandas in sklearn](https://github.com/scikit-learn-contrib/sklearn-pandas) | TBD |
 | [Github: sklearn transformers (by oegedijk)](https://github.com/oegedijk/sklearn-transformers) | TBD |
 | [Gist:Transformer Howto](https://gist.github.com/amberjrivera/8c5c145516f5a2e894681e16a8095b5c) | TBD |
-| [Blog: A simple guide to pipelines (Rebecca Vickery)](https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf) | TBD |
+| [Blog: A simple guide to pipelines (by Rebecca Vickery)](https://medium.com/vickdata/a-simple-guide-to-scikit-learn-pipelines-4ac0d974bdcf) | TBD |
+| [Blog: Step by step tutorial on pipelines (by James Ho)](https://towardsdatascience.com/step-by-step-tutorial-of-sci-kit-learn-pipeline-62402d5629b6) | TBD |
 
 
