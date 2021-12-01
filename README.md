@@ -13,6 +13,10 @@ A selection of machine learning resources
 
 ## Topics
 
+### Feature Engineering
+
+[Feature Enginnering](feature_engneering/README.md)
+
 ### Clustering
 
 Uses
