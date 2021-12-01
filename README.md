@@ -3,7 +3,9 @@ A selection of machine learning resources
 
 ## Libraries
 ### Numpy
-[Introduction to numpy](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
+- [Introduction to numpy](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
+- [100 numpy exercises](https://github.com/rougier/numpy-100)
+
 ### Pandas
 [Introduction to pandas](https://github.com/ageron/handson-ml2/blob/master/tools_pandas.ipynb)
 ### Matplotlib
@@ -63,6 +65,7 @@ Uses
         - [twoardsdatascience, also links to kmodes](https://towardsdatascience.com/clustering-algorithm-for-data-with-mixed-categorical-and-numerical-features-d4e3a48066a0)
     - **NOT CHECKED YET** Can [kmodes](https://github.com/nicodv/kmodes) be used for it?
         - [Blog: kmodes](https://www.analyticsvidhya.com/blog/2021/06/kmodes-clustering-algorithm-for-categorical-data/)
+    - [Blog: Clustering mixed data](https://www.tomasbeuzen.com/post/clustering-mixed-data/)
     - Why can't we just scale to [0;1] or [-1;1] range?
 
 #### Hierarchical Clustering
@@ -106,5 +109,8 @@ Clusters are described by Gaussian distributions
 | [Youtube: Pandas, Pipelines, and Custom Transformers (Julie Michelman @ PyData)](https://www.youtube.com/watch?v=BFaadIqWlAg)                                                | TBD |
 | [Youtube: How you SHOULD code Machine Learning (CodeEmporium)](https://www.youtube.com/watch?v=XvnkUg1yVmk)                                                | TBD |
 | [Youtube: Creating Pipelines Using SKlearn- Machine Learning Tutorial (Krish Naik)](https://www.youtube.com/watch?v=w9IGkBfOoic)                                                | TBD |
+| [Github: Pandas in sklearn](https://github.com/scikit-learn-contrib/sklearn-pandas) | TBD |
+| [sklearn transformers (by oegedijk)](https://github.com/oegedijk/sklearn-transformers) | TBD |
+| [Gist:Transformer Howto](https://gist.github.com/amberjrivera/8c5c145516f5a2e894681e16a8095b5c) | TBD |
 
 
