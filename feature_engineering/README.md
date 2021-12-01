@@ -3,9 +3,13 @@ A selection of feature engineering resources
 
 ## Categorical Data
 
-sklearn.preprocessing.OneHotDecoder
-sklearn.preprocessing.LabelEncoder
-keras.utils.to_categorical
+### Libraries
+
+|Resource                                                                                                                                              | Comment     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------  | ----------- |
+| [sklearn.preprocessing.OneHotDecoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)                                                | TBD |
+| [sklearn.preprocessing.LabelEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)                                                | TBD |
+| [tf.keras.utils.to_categorical](https://www.tensorflow.org/api_docs/python/tf/keras/utils/to_categorical)                                                | TBD |
 
 + Questions
     + How to add a default to the one hot encoding (not known), as it could appear in test data only and not be in train data?
