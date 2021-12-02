@@ -1,6 +1,10 @@
 # Machine Learning Resources
 A selection of machine learning resources
 
+## AI as a product
+
+[AI as a product](/ai_product/)
+
 ## Libraries
 ### Numpy
 - [Introduction to numpy](https://github.com/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
