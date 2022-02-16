@@ -73,6 +73,7 @@ Uses
     - Why can't we just scale to [0;1] or [-1;1] range?
     - [KModes youtube algorithm](https://www.youtube.com/watch?v=EVl2ejcsTfg)
     - [Video: Mixed mode and means clustering K-Prototypes](https://www.youtube.com/watch?v=8eATPLDJ0NQ)
+    - [Video: K Modes Intuition](https://www.youtube.com/watch?v=b39_vipRkUo)
 
 #### Hierarchical Clustering
 
