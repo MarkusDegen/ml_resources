@@ -14,6 +14,10 @@ A selection of feature engineering resources
 | [category encoders](https://pypi.org/project/category-encoders/) | TBD |
 | [Youtube: How do I encode categorical features using scikit-learn? (Data School)](https://www.youtube.com/watch?v=irHhDMbw3xo)             | TBD|
 | [Blog: Here’s All you Need to Know About Encoding Categorical Data (with Python code)](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/) | TBD |
+| [Blog: Choosing the right Encoding method-Label vs OneHot Encoder](https://towardsdatascience.com/choosing-the-right-encoding-method-label-vs-onehot-encoder-a4434493149b) | TBD |
+| [Blog: Label Encoder vs. One Hot Encoder in Machine Learning](https://contactsunny.medium.com/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621) | TBD |
+
+
 
 ### Learning
 
